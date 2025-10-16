@@ -1,0 +1,11 @@
+# Compilación
+*.o
+*.out
+*.a
+*.so
+app
+
+# Archivos temporales
+*.swp
+*.log
+
